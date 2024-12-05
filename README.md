@@ -6,7 +6,7 @@ Experience top-notch products and exceptional customer service!
 #
 # Using key features of this project
 - Navbar
-Logo (clickable), navigation links (Home, About, Contact), search bar, user menu, and call-to-action button (e.g., "Sign Up"). Responsive design with a sticky effect and a collapsible hamburger menu on smaller screens.
+Logo (clickable), navigation links (Home, About, Contact), search bar, user menu, and call-to-action button. Responsive design with a sticky effect and a collapsible hamburger menu on smaller screens.
 
 Footer
 Contact info, quick links (Privacy Policy, FAQs), social media icons, newsletter subscription, copyright notice, and a back-to-top button.
@@ -18,7 +18,6 @@ Hero section with headline, subheading, and call-to-action. Highlight features/b
 #
 
 # Deploying with Netlify
-# [Live-site: ](https://gadzet-zone-website-b10-a8.netlify.app/)
+# [Live site: ]:--- [https://gadget-heaven-websites.netlify.app/]
 
-# Deploying with Surge 
-# [Live-site: ](https://blushing-juice.surge.sh/statistic)
+
